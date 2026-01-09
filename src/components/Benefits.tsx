@@ -1,7 +1,5 @@
 import { Shield, TrendingUp, Target, Award, ArrowUpRight } from 'lucide-react';
 
-import { Shield, TrendingUp, Target, Award, ArrowUpRight } from 'lucide-react';
-
 const benefits = [
   {
     title: 'A DOR REAL',
