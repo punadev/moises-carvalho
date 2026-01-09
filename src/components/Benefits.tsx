@@ -2,23 +2,20 @@ import { Shield, TrendingUp, Target, Award, ArrowUpRight } from 'lucide-react';
 
 const benefits = [
   {
-    icon: Shield,
     title: 'A DOR REAL',
     desc: 'Mesmo com talento e dedicação, a verdade é simples: o mercado forma uma opinião sobre ti antes mesmo de ouvirem o que tens para dizer.'
   },
   {
-    icon: TrendingUp,
+
     title: 'A SOLUÇÃO',
     desc: 'Este e-book foi desenvolvido para profissionais e líderes que desejam:
 '
   },
   {
-    icon: Target,
     title: 'O Poder da Imagem Profissional',
     desc: 'Não é um livro sobre moda. É um guia estratégico para quem tenciona melhorar o seu posicionamento no ambiente corporativo.'
   },
   {
-    icon: Award,
     title: 'O QUE VAIS APRENDER',
     desc: 'Cada capítulo foi escrito para provocar consciência, decisão e acção — não apenas reflexão.'
   }
