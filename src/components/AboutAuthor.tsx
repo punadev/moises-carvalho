@@ -30,7 +30,7 @@ export default function AboutAuthor() {
                             <span className="text-gold">Carvalho</span>
                         </h2>
 
-                        <div className="grid md:grid-cols-2 gap-12">
+                        <div className="grid gap-12">
                             <div className="space-y-6">
                                 <p className="text-lg text-obsidian/70 font-light leading-relaxed">
                                     Consultor de Estilo e Imagem Profissional, com experiência consolidada nas áreas de Recursos Humanos, comportamento organizacional e desenvolvimento pessoal. Trabalha com profissionais e organizações no desenvolvimento de imagens fortes, autênticas e estrategicamente alinhadas aos seus objectivos.
@@ -63,4 +63,5 @@ export default function AboutAuthor() {
         </section>
     );
 }
+
 
