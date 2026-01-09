@@ -29,8 +29,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-xl lg:text-2xl text-champagne/70 mb-16 max-w-xl leading-relaxed font-light">
-              O guia definitivo para líderes que buscam <span className="text-gold font-medium">autoridade absoluta</span>,
-              ascensão estratégica e a valorização inegável da marca corporativa.
+              O guia prático para aumentar a tua credibilidade, crescer na carreira e <span className="text-gold font-medium">reforçar o valor das organizações.</span>
             </p>
 
             <div className="flex flex-col sm:flex-row gap-6 items-center">
