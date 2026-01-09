@@ -13,8 +13,8 @@ export default function Footer() {
               O guia para aumentar a tua credibilidade, crescer na carreira e reforçar o valor das organizações.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="hover:text-amber-400 transition-colors"><Instagram className="w-5 h-5" /></a>
-              <a href="#" className="hover:text-amber-400 transition-colors"><Linkedin className="w-5 h-5" /></a>
+              <a href="https://www.instagram.com/moises.carvalho.atelier?igsh=MWZ3eDB0aWt5d21zcw==" className="hover:text-amber-400 transition-colors"><Instagram className="w-5 h-5" /></a>
+              <a href="https://www.linkedin.com/in/moises-carvalho-789781196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" className="hover:text-amber-400 transition-colors"><Linkedin className="w-5 h-5" /></a>
               <a href="#" className="hover:text-amber-400 transition-colors"><Mail className="w-5 h-5" /></a>
             </div>
           </div>
@@ -28,7 +28,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-amber-500" />
-                <span>moises.carvalho@email.com</span>
+                <span>carvalhohud@gmail.com</span>
               </li>
             </ul>
           </div>
