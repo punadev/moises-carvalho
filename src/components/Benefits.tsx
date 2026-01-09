@@ -9,7 +9,16 @@ const benefits = [
   {
     icon: TrendingUp,
     title: 'A SOLUÇÃO',
-    desc: 'Este e-book foi desenvolvido para profissionais e líderes que desejam:'
+    desc: (
+      <>
+        Este e-book foi desenvolvido para profissionais e líderes que desejam:<br />
+        ✔ Aumentar credibilidade<br />
+        ✔ Fortalecer a presença profissional<br />
+        ✔ Ganhar influência nas equipas e nos processos de decisão<br />
+        ✔ Alinhar imagem presencial e digital<br />
+        ✔ Construir liderança através da imagem
+      </>
+    )
   },
   {
     icon: Target,
@@ -53,9 +62,9 @@ export default function Benefits() {
               <h3 className="text-xl font-bold mb-4 text-white uppercase tracking-tight">
                 {benefit.title}
               </h3>
-              <p className="text-champagne/50 text-sm leading-relaxed font-light">
+              <div className="text-champagne/50 text-sm leading-relaxed font-light">
                 {benefit.desc}
-              </p>
+              </div>
             </div>
           ))}
         </div>
