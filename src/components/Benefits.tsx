@@ -18,8 +18,8 @@ const benefits = [
   },
   {
     icon: Award,
-    title: 'ROI de Imagem',
-    desc: 'Aplique ferramentas práticas para mensurar e acelerar sua valorização no mercado premium.'
+    title: 'O QUE VAIS APRENDER,
+    desc: 'Cada capítulo foi escrito para provocar consciência, decisão e acção — não apenas reflexão.'
   }
 ];
 
