@@ -57,19 +57,19 @@ export default function CTA() {
                     name="name"
                     value={formData.name}
                     onChange={handleInputChange}
-                    placeholder="Ex: Alexander Pierce"
+                    placeholder="Seu nome"
                     className="w-full bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-gold/50 focus:bg-white/10 transition-all placeholder:text-white/20"
                     required
                   />
                 </div>
                 <div className="space-y-2">
-                  <label className="text-[10px] uppercase tracking-widest font-bold text-gold/60 ml-1">Email Corporactivo</label>
+                  <label className="text-[10px] uppercase tracking-widest font-bold text-gold/60 ml-1">Email</label>
                   <input
                     type="email"
                     name="email"
                     value={formData.email}
                     onChange={handleInputChange}
-                    placeholder="Ex: alexander@company.com"
+                    placeholder="Ex: seunome@email.com"
                     className="w-full bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-gold/50 focus:bg-white/10 transition-all placeholder:text-white/20"
                     required
                   />
@@ -77,7 +77,7 @@ export default function CTA() {
               </div>
 
               <div className="space-y-2 text-white">
-                <label className="text-[10px] uppercase tracking-widest font-bold text-gold/60 ml-1">Organização / Cargo</label>
+                <label className="text-[10px] uppercase tracking-widest font-bold text-gold/60 ml-1">Telefone ou WhatssApp</label>
                 <input
                   type="text"
                   name="organization"
