@@ -2,6 +2,7 @@ import { Shield, TrendingUp, Target, Award, ArrowUpRight } from 'lucide-react';
 
 const benefits = [
   {
+    icon: Shield,
     title: 'A DOR REAL',
     desc: 'Mesmo com talento e dedicação, a verdade é simples: o mercado forma uma opinião sobre ti antes mesmo de ouvirem o que tens para dizer.'
   },
