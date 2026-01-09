@@ -38,9 +38,8 @@ export default function CTA() {
                 <ShieldCheck className="w-4 h-4 text-gold" />
                 <span className="text-gold font-bold text-[10px] uppercase tracking-[0.2em]">Secure Acquisition</span>
               </div>
-              <h2 className="text-4xl lg:text-7xl font-black mb-8 leading-none tracking-tighter uppercase">
-                Faz o download gratuito do e-book agora
-                <span className="text-gradient-gold">Conhecimento</span>
+              <h2 className="text-4xl font-black mb-8 leading-none tracking-tighter uppercase">
+                Faz o download gratuito do e-book agora.
               </h2>
               <p className="text-lg text-champagne/60 font-light max-w-2xl mx-auto leading-relaxed">
                 Preencha os dados abaixo para receber o guia estratégico <span className="text-white font-medium">"O Poder da Imagem Profissional"</span>.
