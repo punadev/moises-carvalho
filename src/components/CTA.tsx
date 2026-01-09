@@ -42,8 +42,7 @@ export default function CTA() {
                 Faz o download gratuito do e-book agora.
               </h2>
               <p className="text-lg text-champagne/60 font-light max-w-2xl mx-auto leading-relaxed">
-                Preencha os dados abaixo para receber o guia estratégico <span className="text-white font-medium">"O Poder da Imagem Profissional"</span>.
-                Um passo decisivo para sua consolidação como autoridade.
+                Descobre estratégias práticas utilizadas por profissionais de sucesso para gerar confiança, construir posicionamento e evoluir de forma consistente na carreira.
               </p>
             </div>
 
