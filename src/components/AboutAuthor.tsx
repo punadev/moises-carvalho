@@ -40,22 +40,6 @@ export default function AboutAuthor() {
                                     É certificado pelo centro de formação Borcelle, no Brasil, sob mentoria do conceituado consultor Alessandro Ricardo.
                                 </p>
                             </div>
-
-                            <div className="bg-obsidian text-champagne p-8 rounded-2xl shadow-xl transform hover:-translate-y-2 transition-transform duration-500">
-                                <div className="text-gold text-4xl mb-4 font-serif italic">“</div>
-                                <p className="text-base font-light italic leading-relaxed mb-6">
-                                    "Registámos um aumento de 40% na taxa de fecho de contratos após a consultoria de imagem para os nossos executivos."
-                                </p>
-                                <div className="flex items-center gap-4">
-                                    <div className="w-10 h-10 rounded-full bg-gold/20 overflow-hidden px-1 py-1">
-                                        <img src="https://i.pravatar.cc/150?u=9" alt="CEO" className="w-full h-full object-cover grayscale" />
-                                    </div>
-                                    <div>
-                                        <div className="text-xs font-bold uppercase tracking-wider text-white">CEO Holding Mabby</div>
-                                        <div className="text-[10px] text-gold uppercase tracking-widest">Fernando Pumna</div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -63,6 +47,7 @@ export default function AboutAuthor() {
         </section>
     );
 }
+
 
 
 
