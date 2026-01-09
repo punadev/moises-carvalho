@@ -35,10 +35,10 @@ export default function AboutAuthor() {
                                 <p className="text-lg text-obsidian/70 font-light leading-relaxed">
                                     Consultor de Estilo e Imagem Profissional, com experiência consolidada nas áreas de Recursos Humanos, comportamento organizacional e desenvolvimento pessoal. Trabalha com profissionais e organizações no desenvolvimento de imagens fortes, autênticas e estrategicamente alinhadas aos seus objectivos.
                                 </p>
-                                <div className="pt-6 border-t border-obsidian/10">
-                                    <div className="text-4xl font-black text-obsidian mb-1">+500</div>
-                                    <div className="text-xs uppercase tracking-widest text-gold font-bold">Líderes Consultados</div>
-                                </div>
+
+                                <p className="text-lg text-obsidian/70 font-light leading-relaxed">
+                                    É certificado pelo centro de formação Borcelle, no Brasil, sob mentoria do conceituado consultor Alessandro Ricardo.
+                                </p>
                             </div>
 
                             <div className="bg-obsidian text-champagne p-8 rounded-2xl shadow-xl transform hover:-translate-y-2 transition-transform duration-500">
@@ -63,5 +63,6 @@ export default function AboutAuthor() {
         </section>
     );
 }
+
 
 
