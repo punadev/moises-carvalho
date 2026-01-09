@@ -32,6 +32,10 @@ export default function Hero() {
               O guia prático para aumentar a tua credibilidade, crescer na carreira e <span className="text-gold font-medium">reforçar o valor das organizações.</span>
             </p>
 
+            <p className="text-xl lg:text-2xl text-champagne/70 mb-16 max-w-xl leading-relaxed font-light">
+             <em>Por Moisés Carvalho | Consultor de Estilo e Imagem Corporativa</em>
+            </p>
+
             <div className="flex flex-col sm:flex-row gap-6 items-center">
               <a href="#download" className="btn-premium-primary group">
                 Quero meu e-book gratuito
