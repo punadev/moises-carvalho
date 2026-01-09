@@ -18,7 +18,7 @@ const benefits = [
   },
   {
     icon: Award,
-    title: 'O QUE VAIS APRENDER,
+    title: 'O QUE VAIS APRENDER',
     desc: 'Cada capítulo foi escrito para provocar consciência, decisão e acção — não apenas reflexão.'
   }
 ];
