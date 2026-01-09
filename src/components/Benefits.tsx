@@ -3,7 +3,7 @@ import { Shield, TrendingUp, Target, Award, ArrowUpRight } from 'lucide-react';
 const benefits = [
   {
     icon: Shield,
-    title: 'Autoridade Instantânea',
+    title: 'A DOR REAL',
     desc: 'Aumente sua credibilidade e projete confiança inabalável em cada interação de alto nível.'
   },
   {
