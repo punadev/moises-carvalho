@@ -23,7 +23,7 @@ export default function AboutAuthor() {
 
                     <div className="lg:col-span-7 pt-8">
                         <div className="inline-block px-4 py-1 bg-gold/10 text-gold text-xs font-black uppercase tracking-[0.3em] mb-8 rounded-full">
-                            Leading Authority
+                            AUTORIDADE
                         </div>
                         <h2 className="text-5xl lg:text-8xl font-black text-obsidian mb-10 leading-none tracking-tighter uppercase">
                             Moisés <br />
@@ -33,8 +33,7 @@ export default function AboutAuthor() {
                         <div className="grid md:grid-cols-2 gap-12">
                             <div className="space-y-6">
                                 <p className="text-lg text-obsidian/70 font-light leading-relaxed">
-                                    Moisés Carvalho é um arquiteto de imagem e consultor estratégico para líderes globais.
-                                    Sua abordagem disruptiva combina psicologia da percepção com semiótica da moda.
+                                    Consultor de Estilo e Imagem Profissional, com experiência consolidada nas áreas de Recursos Humanos, comportamento organizacional e desenvolvimento pessoal. Trabalha com profissionais e organizações no desenvolvimento de imagens fortes, autênticas e estrategicamente alinhadas aos seus objectivos.
                                 </p>
                                 <div className="pt-6 border-t border-obsidian/10">
                                     <div className="text-4xl font-black text-obsidian mb-1">+500</div>
@@ -64,3 +63,4 @@ export default function AboutAuthor() {
         </section>
     );
 }
+
