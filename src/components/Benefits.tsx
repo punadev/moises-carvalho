@@ -12,11 +12,11 @@ const benefits = [
     desc: (
       <>
         Este e-book foi desenvolvido para profissionais e líderes que desejam:<br />
-        ✔ Aumentar credibilidade<br />
-        ✔ Fortalecer a presença profissional<br />
-        ✔ Ganhar influência nas equipas e nos processos de decisão<br />
-        ✔ Alinhar imagem presencial e digital<br />
-        ✔ Construir liderança através da imagem
+        ✔️ Aumentar credibilidade<br />
+        ✔️ Fortalecer a presença profissional<br />
+        ✔️ Ganhar influência nas equipas e nos processos de decisão<br />
+        ✔️ Alinhar imagem presencial e digital<br />
+        ✔️ Construir liderança através da imagem
       </>
     )
   },
