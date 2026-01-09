@@ -32,7 +32,7 @@ export default function Hero() {
               O guia prático para aumentar a tua credibilidade, crescer na carreira e <span className="text-gold font-medium">reforçar o valor das organizações.</span>
             </p>
 
-            <p className="text-xl lg:text-2xl text-champagne/70 mb-16 max-w-xl leading-relaxed font-light">
+            <p className="text-xl text-champagne/70 mb-16 max-w-xl leading-relaxed font-light">
              <em>Por Moisés Carvalho | Consultor de Estilo e Imagem Corporativa</em>
             </p>
 
