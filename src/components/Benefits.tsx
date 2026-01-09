@@ -3,10 +3,9 @@ import { Shield, TrendingUp, Target, Award, ArrowUpRight } from 'lucide-react';
 const benefits = [
   {
     title: 'A DOR REAL',
-    desc: 'Mesmo com talento e dedicação, a verdade é simples. o mercado forma uma opinião sobre ti antes mesmo de ouvirem o que tens para dizer.'
+    desc: 'Mesmo com talento e dedicação, a verdade é simples: o mercado forma uma opinião sobre ti antes mesmo de ouvirem o que tens para dizer.'
   },
   {
-
     title: 'A SOLUÇÃO',
     desc: 'Este e-book foi desenvolvido para profissionais e líderes que desejam'
   },
@@ -16,7 +15,7 @@ const benefits = [
   },
   {
     title: 'O QUE VAIS APRENDER',
-    desc: 'Cada capítulo foi escrito para provocar consciência, decisão e acção — não apenas reflexão.'
+    desc: 'Cada capítulo foi escrito para provocar consciência, decisão e ação — não apenas reflexão.'
   }
 ];
 
