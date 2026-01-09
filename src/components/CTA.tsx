@@ -83,7 +83,7 @@ export default function CTA() {
                   name="organization"
                   value={formData.organization}
                   onChange={handleInputChange}
-                  placeholder="Ex: Vice President of Operations"
+                  placeholder="Digite seu telefone"
                   className="w-full bg-white/5 border border-white/10 rounded-2xl px-6 py-4 outline-none focus:border-gold/50 focus:bg-white/10 transition-all placeholder:text-white/20"
                   required
                 />
