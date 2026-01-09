@@ -3,7 +3,7 @@ import Impact from './components/Impact';
 import Benefits from './components/Benefits';
 import AboutAuthor from './components/AboutAuthor';
 import CTA from './components/CTA';
-import CTA from './components/Footer';
+import Footer from './components/Footer';
 
 function App() {
   return (
