@@ -13,12 +13,6 @@ export default function AboutAuthor() {
                                 className="w-full h-full object-cover scale-110 hover:scale-100 transition-transform duration-1000"
                             />
                         </div>
-                        <div className="absolute -bottom-10 -right-10 glass p-8 rounded-2xl hidden lg:block max-w-xs">
-                            <p className="text-obsidian font-bold text-lg mb-2">Refinamento & Estratégia</p>
-                            <p className="text-obsidian/60 text-sm leading-relaxed">
-                                "A excelência visual não é um luxo, é um pré-requisito para quem quer liderar o futuro."
-                            </p>
-                        </div>
                     </div>
 
                     <div className="lg:col-span-7 pt-8">
@@ -47,6 +41,7 @@ export default function AboutAuthor() {
         </section>
     );
 }
+
 
 
 
