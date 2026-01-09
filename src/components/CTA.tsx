@@ -39,7 +39,7 @@ export default function CTA() {
                 <span className="text-gold font-bold text-[10px] uppercase tracking-[0.2em]">Secure Acquisition</span>
               </div>
               <h2 className="text-4xl lg:text-7xl font-black mb-8 leading-none tracking-tighter uppercase">
-                Acesse o <br />
+                Faz o download gratuito do e-book agora
                 <span className="text-gradient-gold">Conhecimento</span>
               </h2>
               <p className="text-lg text-champagne/60 font-light max-w-2xl mx-auto leading-relaxed">
